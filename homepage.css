@@ -1,0 +1,106 @@
+body{
+    background-image: url(./Images/jujutsu.gif);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+#header{
+background-color: transparent;
+color: white;
+}
+a{
+    color: white;
+}
+
+#header h1{
+    display: inline-block;
+    font-size: 50px;
+    box-shadow: 5px 5px 5px 5px;
+}
+
+#header ul li{
+display: inline-block;
+font-size: 16px;
+}
+#header div{
+display: inline-block;
+}
+
+#left{
+    width: 70%;
+    font-family: 'Tourney', cursive;
+}
+
+#right ul{
+    font-family: 'Source Serif Pro', serif;
+}
+
+.fa.fa-youtube-play{
+   color: red;
+   font-size: 30px;
+}
+
+.fa.fa-twitter{
+    color: cornflowerblue;
+    font-size: 30px;
+}
+
+a{
+    color: white;
+}
+
+#header2{
+    background-color: black;
+    color: white;
+    }
+
+
+#info{
+    color: white;
+    padding-top: 300px;
+}
+
+#para{
+    font-family: 'Merriweather', serif;
+}
+
+#footer{
+   background-image: url(./Images/Mappafooter.jpg);
+   background-repeat: no-repeat;
+   background-size: 100%;
+    color: white;
+    position: relative;
+    padding-top: 30px;
+    padding-left: 75px;
+    text-align: center;
+    margin: auto;
+}
+
+#footer h4{
+    font-size: 100px;
+    color:white;
+}
+
+/* #footer p{
+    display: inline-block;
+} */
+
+#footer button{
+    /* display: inline-block; */
+    background-color:transparent;
+   padding-right: 10px;
+   width: 40%;
+   height: 80%;
+   font-size: 20px;
+   border-radius: 20px;
+}
+
+#footer div{
+padding-left: 50px;
+height: 80px;
+}
+
+#img2 img{
+    width: 100%;
+    padding-right: 10px;
+}
